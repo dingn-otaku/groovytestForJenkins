@@ -3,5 +3,5 @@ def printMessage(){
 }
 
 def printMessage(name){
-    printf("hello,",name)
+    printf("hello,${name}")
 }
